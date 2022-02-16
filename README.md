@@ -50,7 +50,7 @@ inverse = np.linalg.inv(valuel)
 print (Inverse)
 ```
 ## OUTPUT:
-![git logo](z2.png)
+![git logo](z2..png)
 
 ## RESULT:
 Therefore the program is successfully executed to find the inverse of nested arrays using numpy module.
